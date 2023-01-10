@@ -1,0 +1,13 @@
+{
+    "parent": "item/weapons/fr556",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation":  [ -10, 8, 3 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation":  [ -10, 8, 3 ]
+		}
+	}
+}

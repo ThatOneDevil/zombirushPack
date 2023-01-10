@@ -1,0 +1,15 @@
+{
+    "parent": "item/weapons/50gs",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [0, -10, 15],
+			"translation": [-3, 7.5, 8.25],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 170, -15],
+			"translation": [-3, 7.5, 8.25],
+			"scale": [1.2, 1.2, 1.2]
+		}
+    }
+}
